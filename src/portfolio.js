@@ -257,7 +257,7 @@ const achievementSection = {
     {
       title: "Google Cloud Certified",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Completed the Cloud Fundamentals and General AI track  along with Machine Learning track on Google Cloud Platform. I have also added my profile link of google cloud skill boost below.",
       image: require("./assets/images/gcp.png"),
       imageAlt: "GCP Logo",
       footerLink: [

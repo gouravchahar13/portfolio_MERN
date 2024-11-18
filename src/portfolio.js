@@ -23,7 +23,7 @@ const greeting = {
   username: "Gourav Chahar",
   title: "Hi all, I'm Gourav",
   subTitle: emoji(
-    "Results-oriented Software Engineer with a strong foundation in full-stack development (Django, MERN) and a passion for leveraging Machine Learning to drive innovation. Expert in crafting robust, scalable software solutions using Python and a comprehensive ML toolkit. Proven ability to translate complex business requirements into efficient, production-ready code and deliver high-quality applications that meet user needs."  
+    "Passionate Full-Stack Developer and Cloud Enthusiast with a strong background in MERN stack development,cloud computing, and data visualization. Skilled in building scalable web applications, deploying solutions on Google Cloud,and creating insightful dashboards using Power BI and Tableau. Excellent problem-solving, collaboration, and project management abilities. Seeking a challenging role to drive innovation in web development, cloud solutions, and data analytics."  
   ),
   resumeLink:
     "https://drive.google.com/file/d/1yKsQb6IEPHEmwZnzXifWJHbLrkLCTa94/view?usp=sharing", // Set to empty to hide the button
